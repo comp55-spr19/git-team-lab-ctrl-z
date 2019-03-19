@@ -16,7 +16,9 @@ public class SimplePicture extends GraphicsProgram {
 		GLabel label = new GLabel("How I feel when using github hackslash", 200, 400);
 		add(label);
 	}
-	int a = 0;//hello everyone from Jason :)
+	int a = 0;
+	int b = 42;
+	//hello everyone from Jason :)
 
 	
 	// step 7
