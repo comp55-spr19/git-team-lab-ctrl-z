@@ -54,7 +54,7 @@ public class SimplePicture extends GraphicsProgram {
 		temp.setColor(Color.RED);
 		temp.setFilled(true);
 		return temp;
-	}
+	}//test
 	
 	public void actionPerformed(ActionEvent e) {
 		   //TODO add what we want to do every two seconds
