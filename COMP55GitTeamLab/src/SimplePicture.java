@@ -21,3 +21,4 @@ public class SimplePicture extends GraphicsProgram {
 
 // step 5
 // step 5 2
+//step7
