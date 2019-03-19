@@ -18,7 +18,7 @@ public class SimplePicture extends GraphicsProgram {
 	}
 	int a = 0;
 	int b = 42;
-	int c = 42*2;
+	int c = 42;
 	//hello everyone from Jason :)
 
 	
