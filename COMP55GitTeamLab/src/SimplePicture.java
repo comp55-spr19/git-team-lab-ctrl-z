@@ -63,6 +63,8 @@ public class SimplePicture extends GraphicsProgram {
 				balls.get(i).move(2, 0);
 			}
 	}
+	//}
+//}
 	// step 7
 }
 
@@ -74,3 +76,8 @@ public class SimplePicture extends GraphicsProgram {
 //step7
  //'master' of https://github.com/comp55-spr19/git-team-lab-ctrl-z.git
 //github.com/comp55-spr19/git-team-lab-ctrl-z.git
+
+
+//step 10asdfklasdjflksd
+//break breka break adsf
+//>>>>>>> branch 'master' of https://github.com/comp55-spr19/git-team-lab-ctrl-z.git
