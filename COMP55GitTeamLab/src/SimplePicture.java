@@ -17,13 +17,13 @@ public class SimplePicture extends GraphicsProgram {
 		add(label);
 	}
 	int a = 0;//hello everyone from Jason :)
-<<<<<<< HEAD
+
 	
 	// step 7
 }
-=======
-}
+
+
 
 // step 5
 // step 5 2
->>>>>>> branch 'master' of https://github.com/comp55-spr19/git-team-lab-ctrl-z.git
+ //'master' of https://github.com/comp55-spr19/git-team-lab-ctrl-z.git
