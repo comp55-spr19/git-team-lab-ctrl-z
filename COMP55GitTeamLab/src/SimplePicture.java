@@ -17,8 +17,16 @@ public class SimplePicture extends GraphicsProgram {
 		add(label);
 	}
 	int a = 0;//hello everyone from Jason :)
+
+	
+	// step 7
 }
+
+
 
 // step 5
 // step 5 2
+
 //step7
+ //'master' of https://github.com/comp55-spr19/git-team-lab-ctrl-z.git
+//github.com/comp55-spr19/git-team-lab-ctrl-z.git
