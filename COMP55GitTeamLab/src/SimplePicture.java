@@ -18,3 +18,5 @@ public class SimplePicture extends GraphicsProgram {
 	}
 	int a = 0;//hello everyone from Jason :)
 }
+
+// step 5
