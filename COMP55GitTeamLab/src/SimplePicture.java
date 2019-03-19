@@ -47,7 +47,7 @@ public class SimplePicture extends GraphicsProgram {
 		add(ball);
 		
 		balls.add(ball);
-	}//dugljdkyusgh
+	}//dugljdkyusghchange
 	
 	public GOval makeBall(double x, double y) {
 		GOval temp = new GOval(x-SIZE/2, y-SIZE/2, SIZE, SIZE);
