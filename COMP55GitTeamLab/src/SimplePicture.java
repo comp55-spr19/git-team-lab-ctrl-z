@@ -34,7 +34,7 @@ public class SimplePicture extends GraphicsProgram {
 		Timer aTimer = new Timer(2, this);
 		aTimer.start();
 		
-	}
+	}//not working 
 	
 	public void mousePressed(MouseEvent e) {
 		
