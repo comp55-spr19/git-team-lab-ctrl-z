@@ -16,14 +16,14 @@ public class SimplePicture extends GraphicsProgram {
 		GLabel label = new GLabel("How I feel when using github hackslash", 200, 400);
 		add(label);
 	}
-	int a = 0;
-	int b = 42;
-	int c = 42;
+}
+
+
 	//hello everyone from Jason :)
 
 	
 	// step 7
-}
+
 
 
 
@@ -32,4 +32,11 @@ public class SimplePicture extends GraphicsProgram {
 
 //step7
  //'master' of https://github.com/comp55-spr19/git-team-lab-ctrl-z.git
+
+//github.com/comp55-spr19/git-team-lab-ctrl-z.git
+
+//github.com/comp55-spr19/git-team-lab-ctrl-z.git
+
+//step 10asdfklasdjflksd
+//break breka break adsf
 //github.com/comp55-spr19/git-team-lab-ctrl-z.git
